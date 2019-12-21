@@ -1,0 +1,2 @@
+vhdl isim_temp "ipcore_dir/subtractor_16_s_core.vhd"
+vhdl isim_temp "top_level_subtractor_16_s.vhd"

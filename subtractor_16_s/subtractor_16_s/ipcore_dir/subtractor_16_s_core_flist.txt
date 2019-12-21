@@ -1,0 +1,14 @@
+# Output products list for <subtractor_16_s_core>
+subtractor_16_s_core.asy
+subtractor_16_s_core.gise
+subtractor_16_s_core.ngc
+subtractor_16_s_core.sym
+subtractor_16_s_core.vhd
+subtractor_16_s_core.vho
+subtractor_16_s_core.xco
+subtractor_16_s_core.xise
+subtractor_16_s_core\doc\c_addsub_v11_0_readme.txt
+subtractor_16_s_core\doc\c_addsub_v11_0_vinfo.html
+subtractor_16_s_core\doc\ds214_addsub.pdf
+subtractor_16_s_core_flist.txt
+subtractor_16_s_core_xmdf.tcl

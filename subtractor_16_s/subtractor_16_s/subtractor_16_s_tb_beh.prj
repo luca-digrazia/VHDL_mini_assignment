@@ -1,0 +1,3 @@
+vhdl work "ipcore_dir/subtractor_16_s_core.vhd"
+vhdl work "top_level_subtractor_16_s.vhd"
+vhdl work "subtractor_16_s_tb.vhd"

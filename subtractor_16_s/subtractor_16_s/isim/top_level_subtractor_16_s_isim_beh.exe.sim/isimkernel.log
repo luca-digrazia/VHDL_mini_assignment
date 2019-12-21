@@ -1,0 +1,29 @@
+Command line:
+   top_level_subtractor_16_s_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51753
+
+Tue Feb 13 15:41:01 2018
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 876.839 Meg
+
+ Total Signals          : 223
+ Total Nets             : 645
+ Total Signal Drivers   : 86
+ Total Blocks           : 96
+ Total Primitive Blocks : 72
+ Total Processes        : 80
+ Total Traceable Variables  : 276
+ Total Scalar Nets and Variables : 2119
+Total Line Count : 488
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 1034.13 Meg
+
+Tue Feb 13 15:55:22 2018
+
